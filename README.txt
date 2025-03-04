@@ -1,16 +1,14 @@
-Bil 212 3. Ödevi:
 
-Öğrenci adı: Efe Görkem Akkanat
-Numarası: 231101046
+@author Efe Görkem Akkanat
 
--> Kodumun çalıştırılması için kendi mainininizi benimkinin yerine koymanız ve çalıştırmanız yeterlidir.
--> Program BinaryTree<Point2D> implement eden My_Abstract_KDTree2D abstract classı ve My_Abstract_KDTree2D'ye extend eden KDTree2D concrete classından oluşur.
--> Yani programım için gerekli dosyalar şunlar: (bunlardan hepsi aynı directoryde olmalıdır)
-    Position.java
-    Tree.java
-    BinaryTree.java
-    My_Abstract_KDTree2D.java
-    KDTree2D.java
-    myTest.java(Opsiyonel) (driver classım)
--> Programımda herhangi bir eksiklik olmamalıdır. Her şey dokümantasyonda istenildiği gibi çalışır.
--> Programım "well documented" dır. Java-Doc formatında tüm metotlar ve parametreleri açıklanmıştır.
+-> To run my code, simply replace my main with your own and execute it.  
+-> The program consists of the `My_Abstract_KDTree2D` abstract class, which implements `BinaryTree<Point2D>`, and the `KDTree2D` concrete class, which extends `My_Abstract_KDTree2D`.  
+-> The necessary files for my program are as follows (all of them must be in the same directory):  
+    - `Position.java`  
+    - `Tree.java`  
+    - `BinaryTree.java`  
+    - `My_Abstract_KDTree2D.java`  
+    - `KDTree2D.java`  
+    - `myTest.java` (Optional) (my driver class)  
+-> There should be no missing parts in my program. Everything functions as specified in the documentation.  
+-> My program is well-documented. All methods and their parameters are explained in JavaDoc format.  
